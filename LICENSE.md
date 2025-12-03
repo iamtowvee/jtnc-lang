@@ -165,7 +165,7 @@ When using the Software, Folltawn may collect information about:
 
 Folltawn reserves the right to amend the terms of this License for future versions of the Software. Amendments will be published at:
 
-**https://github.com/iamtowvee/fpl-1.0/blob/bb1ecb3257883990fcdda85817240b8d58f95692/LICENSE**
+**https://github.com/iamtowvee/fpl-1.0/blob/bb8f3fb7c7df3abf52b3f52d6dcc7a6f337d8d90/LICENSE.md**
 
 The current version of the License is always available at the specified address. New Software versions are subject to the new License terms. Older versions are subject to the License terms in effect at the time of their release.
 
